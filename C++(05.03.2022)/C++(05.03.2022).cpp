@@ -8,6 +8,10 @@ void main() {
 	
 
 	cout << " Salam  fhg" << endl;  
+	cout << " Salam  fhg" << endl;
+	cout << " Salam  fhg" << endl;
+	cout << " Salam  fhg" << endl;
+	cout << " Salam  fhg" << endl;
 
 
 
