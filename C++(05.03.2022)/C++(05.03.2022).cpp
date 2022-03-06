@@ -4,13 +4,10 @@ using namespace std;
 
 
 
-
-
-
 void main() {
 	
 
-	cout << " Salam" << endl;
+	cout << " Salam  fhg" << endl;  
 
 
 
